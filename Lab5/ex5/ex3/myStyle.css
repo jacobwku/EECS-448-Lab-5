@@ -1,5 +1,17 @@
 body
 {
 	background-color:blue;
+	color:black;
 }
 
+body:hover
+{
+	background-color:black;
+	color:white;	
+}
+
+p
+{
+	background-color:white;color:black;
+	font-family:arial font-size:20pt;
+}
